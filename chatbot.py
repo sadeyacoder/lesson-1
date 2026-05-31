@@ -86,7 +86,7 @@ def chat():
         elif "help" in user_input:
             show_help()
         elif "exit" in user_input or "bye" in user_input:
-            print(Fore.CYAN + "TravelBot: Safe travels! Goodbye!")
+            print(Fore.CYAN + "TravelBot: Have a safe journey Goodbye!")
             break
         else:
             print(Fore.RED + "TravelBot: Kindly rephrase ")
