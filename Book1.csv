@@ -1,1 +1,5 @@
-data
+Genre,IMDB_Rating,Overview,Series_Title
+m1,7.2,good,hello
+m2,2.2,bad,hi
+m3,6.4,bad,hey
+m4,5,average,wtsap
