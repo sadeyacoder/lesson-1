@@ -1,0 +1,56 @@
+#ACT1
+
+<!DOCTYPE html>
+<html> 
+  <head>
+    <title>Structure of HTML</title>
+  </head>
+
+  <body> 
+    
+    Hello, I am doing training <br> 
+
+  
+    Today I am learning about HTML<br>
+
+   
+    HTML : Hyper Text Markup Language
+  </body> 
+</html> 
+
+#ACT2
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Did You Know?</title>
+  </head>
+  <body>
+
+    <h1><this is first heading/h1>
+    <p>first paragraph</p>
+ <h2><this is second heading/h2>
+    <p>second paragraph</p>
+    
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Formatter's Lab</title>
+  </head>
+  <body>
+
+
+
+    <h2>mixing everything</h2>
+    <p>The <b>cheetah</b> is the fastest land animal on Earth. and i dont know which is the <small> smallest </smallest animal.</p>
+    <p>You should <strong>always wear a helmet</strong> when riding a bicycle abd i am using <italic> italic tag also </italic>.</p>
+
+   
+  </body>
+</html>    
+
+  </body>
+</html>
